@@ -1,0 +1,6 @@
+2025-04-03 13:51:29.971 [warning] Creation of workbench contribution 'workbench.chat.setup' took 28ms.
+2025-04-03 13:51:30.436 [info] Started local extension host with pid 86726.
+2025-04-03 13:51:30.463 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2025-04-03 13:51:31.154 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2025-04-03 13:51:31.677 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-03 13:51:33.646 [info] [perf] Render performance baseline is 22ms
